@@ -1,7 +1,36 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html>
 <head>
-<title> Information about Stt</title>
-</head>
-<h1> Ruel a bobble head fr fr</h1>
-</html>
+
+<title> St Thomas Information</title>
+<style>
+	h1{color:rgb(212,0,0);text-align: center;}
+	#drive{text-align:center;}
+	#photo{text-align:center;}
+</style>
+	</head>
+<body>
+<h1>St Thomas Information</h1>
+<h2 id="drive">Driving to Coki Point Beach</h2>
+<br>
+<div class="img"><img src="https://www.cruisehive.com/wp-content/uploads/2018/07/stthomas1_small-840x420.jpg">
+
+	<p> When coming you would be traveling through <a href="https://en.wikipedia.org/wiki/Cyril_E._King_Airport">Cyrile E. King </a>and the <a href="https://en.wikipedia.org/wiki/Charlotte_Amalie,_U.S._Virgin_Islands"> History of Chaorlote Amalie</a>
+	<br>
+	<p>Passenger and limited car-ferry services to neighboring islands such as Water Island, Saint John, Saint Croix, and the British Virgin Islands run regularly out of the Red Hook Terminal, Charlotte Amalie, and Crown Bay Marina.</p>
+	<p> In the United States Virgin Islands is the place under the United States jurisdiction where the rule of the roade<bold> drive on the left</bold> This was inherit from the current Danish practice the time of the American acuquistion in 1917. However, because the island are a <bold>U.S Territory</bold> most cars are imported from the mainland  the United States and there for the steering wheel are located on the right side of the vehicle. </p>
+
+<h2>Schools</h2>
+<a href="https://www.vide.vi/for-families/1624-st-thomas-st-john-district-school-start-and-end-times.htmlSt."> Thomas-St. John School District</a> operates public schools on Saint Thomas.
+Private schools:
+<ul><a href="https://www.antilles.vi/">Antilles School</a></ul>
+<ul><a href="https://www.vimsia.org/">Virgin Islands Montessori School & Peter Gruber International Academy</a></ul>
+Colleges and universities:
+<ul><a href="https://www.uvi.edu/index.html">University of the Virgin Islands</a></ul>
+
+
+
+
+
+<body>
+</head<
