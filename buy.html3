@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPK Jewelers </title>
+    <style>
+        /* Add your CSS styles here for layout and design */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        main {
+            padding: 1rem;
+        }
+
+        .product {
+            border: 1px solid #ccc;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background-color: #fff;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 0.5rem 1rem;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>RPK Jewelers </h1>
+    </header>
+
+    <main>
+        <section class="product-listing">
+            <article class="product">
+             <img src="https://stunujewelry.com/cdn/shop/products/Round3_0.jpg?v=1656452332&width=713" alt="Product 3"" width="30%">
+                <h2>Size 3 Nugget earings </h2>
+                <p>10k</p>
+                <p>$200.00</p>
+                <button onclick="buyNow('Product 1', 260.00 )">Buy Now</button>
+            </article>
+
+            <!-- Repeat the above article structure for each product -->
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 RPK Jewelers </p>
+    </footer>
+
+    <script>
+        function buyNow(productName, price) {
+            alert(`You have purchased ${productName} for $${price}. Thank you for shopping with us!`);
+            // Additional logic for actual purchase handling would go here
+        }
+    </script>
+
+</body>
+</html>
