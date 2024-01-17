@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Tables</title>
+</head>
+<body>
+
+    <table border="1">
+        <caption>Table 1</caption>
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>Data 1-1</td>
+            <td>Data 1-2</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+
+    <table border="1">
+        <caption>Table 2</caption>
+        <tr>
+            <th>Header A</th>
+            <th>Header B</th>
+        </tr>
+        <tr>
+            <td>Data A-1</td>
+            <td>Data B-1</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+
+    <table border="1">
+        <caption>Table 3</caption>
+        <tr>
+            <th>Column X</th>
+            <th>Column Y</th>
+        </tr>
+        <tr>
+            <td>Data X-1</td>
+            <td>Data Y-1</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+
+</body>
+</html>
